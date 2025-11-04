@@ -18,6 +18,7 @@ I’m a 3rd-year undergraduate student at the **University of Dhaka**, studying 
 ---
 
 ## 📚 Research Experience
+- Appointed as a **Junior Research Fellow** at **BANGLADESH SPACE RESEARCH AND REMOTE SENSING ORGANIZATION (SPARRSO)** 
 - **Socio-economic Study on the Fishing Community of Southeastern Coastal Region** (Nazirartek, Cox’s Bazar)  
 - **Environmental Issues Due to Human Interventions in the Southwestern Coastal Region** (Rampal Upazila, Bagerhat)  
 
