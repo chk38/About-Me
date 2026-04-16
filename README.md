@@ -12,7 +12,7 @@ I’m a 3rd-year undergraduate student at the **University of Dhaka**, studying 
 - 🌆 Urban Development & Planning  
 - 🛰️ GIS & Remote Sensing Applications  
 - 🌱 Land Use / Land Cover (LULC) Change Detection  
-- 🌊 Socio-environmental Issues in Coastal & Hill Tract Regions  
+- 🌳 Monitoring deforestation 
 - 📊 Spatial Data Analysis for Sustainable Futures  
 
 ---
@@ -33,7 +33,7 @@ I’m a 3rd-year undergraduate student at the **University of Dhaka**, studying 
 ---
 
 ## 🎓 Education
-- **BSc. in Geography and Environment** – *University of Dhaka* (Expected 2027) | GPA: 3.7  
+- **BSc. in Geography and Environment** – *University of Dhaka* (Expected 2027) | CGPA: 3.78 
 - **HSC & SSC** – Feni Girls’ Cadet College | GPA: 5.0 (Both) | *National Scholarship Awardee*  
 
 ---
